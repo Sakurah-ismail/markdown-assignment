@@ -23,7 +23,7 @@ $f_{1} (ω)= \frac{{σ^2}}{2π} , ω∈[−π,π] $
     -  second sub-item
 
 
-![Cat in the cage](./image/cat.png)
+![Cat in the cage](cat.png)
 
 ```
 library(tidyverse)
